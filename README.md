@@ -111,3 +111,9 @@
 
 ### Content Type: Side By Side
 - Renamed `Layout` as `Mobile Layout` and gave 2 options Grid and Row.
+
+## March 20, 2024
+
+### Content Type: Global Banner
+- Deleted `Grop fields` for messages `theme` and `layout`.
+- Added `Message` group field and set max as 3.
