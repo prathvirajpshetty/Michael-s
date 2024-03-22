@@ -117,3 +117,26 @@
 ### Content Type: Global Banner
 - Deleted `Grop fields` for messages `theme` and `layout`.
 - Added `Message` group field and set max as 3.
+
+## March 21, 2024
+
+### Content Type: In Page Search Bar
+- Added `Black` to `Headline` `Font color`.
+- Added `Black` to `Body` `Font color`.
+- Replaced inline `Background Color` with global field `Background Color`.
+
+### Content Type: Homepage
+- Removed `Content card` from `Secondary content`.
+- Added `In Page Search Bar` in `Secondary content`.
+- Added `Pencil Banner` in `Secondary content`.
+
+### Content Type: Content Template
+- Added `In Page Search Bar` in `Secondary content`.
+- Added `Pencil Banner` in `Secondary content`.
+
+## March 22, 2024
+
+### Content Type: Homepage
+- Added global field `Text space`.
+- Remove inline `JSON rte editor`.
+
