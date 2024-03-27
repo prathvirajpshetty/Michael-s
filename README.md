@@ -162,3 +162,6 @@
 
 ### Content Type: Category Tile
 - Made `Black` as default `font color`.
+
+### Content Type: SEO
+- Made `Canonical Tag` as optional.
