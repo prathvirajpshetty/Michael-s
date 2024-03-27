@@ -140,3 +140,25 @@
 - Added global field `Text space`.
 - Remove inline `JSON rte editor`.
 
+## March 27, 2024
+
+### Content Type: Collage
+- Removed `Open in new tab` from CTA 1 and CTA 2.
+
+### Content Type: Side By Side
+- Removed `Open in new tab`.
+- Aligned fields according to
+  1. Title
+  2. Theme
+  3. Headline
+  4. Body
+  5. Mobile layout
+  6. Content Card
+  7. CTA
+
+### Content Type: Global Banner
+- Removed `CTA` group field.
+- Added `Link` a single line mandatory text field.
+
+### Content Type: Category Tile
+- Made `Black` as default `font color`.
