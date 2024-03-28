@@ -165,3 +165,25 @@
 
 ### Content Type: SEO
 - Made `Canonical Tag` as optional.
+
+## March 28, 2024
+
+### Content Type: Banner
+- Removed `Open in new tab` from `CTA 1` and `CTA 2`.
+
+### Content Type: Carousel
+- Removed `Open in new tab` from `Link` field.
+
+### Content Type: Category Tile
+- Removed `Open in new tab` from `CTA` field.
+
+### Content Type: Critical Message Banner
+- Removed `Open in new tab` from `CTA` field.
+
+### Content Type: Featured Categories
+- Removed `Open in new tab` from `Link` field.
+
+### Content Type: Pencil Banner
+- Removed `Open in new tab` from `Links/CTA` field.
+
+
