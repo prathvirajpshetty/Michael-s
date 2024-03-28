@@ -186,4 +186,10 @@
 ### Content Type: Pencil Banner
 - Removed `Open in new tab` from `Links/CTA` field.
 
+### Content Type: Homepage
+- Added helper text `Add entries between 1-5` to `Primary Content`.
+
+### Content Type: Content Template
+- Added helper text `Add entries between 1-5` to `Primary Content`.
+
 
