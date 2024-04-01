@@ -170,9 +170,12 @@
 
 ### Content Type: Banner
 - Removed `Open in new tab` from `CTA 1` and `CTA 2`.
+- Added 3 visibility rules, if color is Custom, show color picker.
 
 ### Content Type: Carousel
 - Removed `Open in new tab` from `Link` field.
+- Added 3 visibility rules, if color is Custom, show color picker.
+
 
 ### Content Type: Category Tile
 - Removed `Open in new tab` from `CTA` field.
@@ -192,4 +195,14 @@
 ### Content Type: Content Template
 - Added helper text `Add entries between 1-5` to `Primary Content`.
 
+### Content Type: Collage
+- Added 2 visibility rules, if color is Custom, show color picker.
 
+### Content Type: Side by Side
+- Added 2 visibility rules, if color is Custom, show color picker.
+  
+### Content Type: Content Card
+- Added 5 visibility rules, if color is Custom, show color picker.
+
+### Content Type: Background Color
+- Added `Custom` to Background color.
