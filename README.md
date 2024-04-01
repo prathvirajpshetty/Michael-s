@@ -176,7 +176,6 @@
 - Removed `Open in new tab` from `Link` field.
 - Added 3 visibility rules, if color is Custom, show color picker.
 
-
 ### Content Type: Category Tile
 - Removed `Open in new tab` from `CTA` field.
 
@@ -206,3 +205,10 @@
 
 ### Content Type: Background Color
 - Added `Custom` to Background color.
+
+
+## April 1, 2024
+
+### Content Type: Font Color
+- Made `Balck` default color.
+
